@@ -4,6 +4,14 @@
 	/* Lua<3 Variables */
 	--avatar-size: 0px;
 	/* BlurpleRecolor */
+	--background-solid: #161921;
+	--background-solid-dark: #101218;
+	--background-solid-darker: #0c0e12;
+	--accent: 37, 172, 232;
+	--accent-alt: 29, 101, 134;
+	--black: 0, 0, 0;
+	--white: 255, 255, 255;
+	/* BlurpleRecolor */
 	--accentcolor: var(--accent);
 	--vaccentcolor-hover: rgb(var(--accent));
 	--vaccentcolor-active: rgb(var(--accent));
